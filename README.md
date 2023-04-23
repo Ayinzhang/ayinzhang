@@ -1,6 +1,6 @@
 <h2>Hi, I'm ayinzhang.</h2>
 
-### About Me
+<h3>About Me</h3>
 
 💡 &nbsp;I like to explore new technologies and develop some interesting games.\
 🎓 &nbsp;I'm currently studying Computer Science at the Northeastern University, China.\
@@ -10,7 +10,7 @@
 ✉️ &nbsp;You can shoot me an email at 1242857339@qq.com! I'll try to respond in one day.\
 🌐 &nbsp;Please have a look at my [website](https://ayinzhang.github.io/) for more details about me. I'm open to feedback and suggestions!
 
-### GitHub Analytics
+<h3>GitHub Analytics</h3>
 
 <p align="center">
 <a href="https://github.com/ayinzhang">
