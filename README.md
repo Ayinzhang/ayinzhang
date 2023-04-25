@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-💡 &nbsp;I like to explore new technologies and develop some interesting games.\
+💡 &nbsp;I like to explore new technologies and develop some interesting game demos.\
 🎓 &nbsp;I'm currently studying Computer Science at the Northeastern University, China.\
 🌱 &nbsp;I'm on track for learning more about Game Engine and Computer Graphics.\
 💼 &nbsp;I did game-related internships at Baitian and Tencent.\
