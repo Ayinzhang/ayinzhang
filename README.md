@@ -5,10 +5,10 @@
 💡 &nbsp;I like to explore new technologies and develop some interesting game demos.\
 🎓 &nbsp;I'm currently studying Computer Science at the Northeastern University, China.\
 🌱 &nbsp;I'm on track for learning more about Game Engine and Computer Graphics.\
-💼 &nbsp;I did game-related internships at Baitian and Tencent.\
-💬 &nbsp;Feel free to contact me for cooperating(painters are in desperate need), or just for some interesting discussion.\
+💼 &nbsp;I did game-related internships at Baitian Baiao and Timi Tencent.\
+💬 &nbsp;Feel free to contact me for cooperating, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at 1242857339@qq.com! I'll try to respond in one day.\
-🌐 &nbsp;Please have a look at my [website](https://ayinzhang.github.io/) for more details about me. I'm open to feedback and suggestions!
+🌐 &nbsp;Please have a look at my website for more details about me. I'm open to feedback and suggestions!
 
 <h3>GitHub Analytics</h3>
 
