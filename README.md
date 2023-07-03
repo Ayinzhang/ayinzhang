@@ -7,8 +7,8 @@
 🌱 &nbsp;I'm on track for learning more about Game Engine and Computer Graphics.\
 💼 &nbsp;I did game-related internships at Baitian Baiao and Timi Tencent.\
 💬 &nbsp;Feel free to contact me for cooperating, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at 1242857339@qq.com! I'll try to respond in one day.\
-🌐 &nbsp;Please have a look at my website for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email and I'll try to respond in one day.\
+🌐 &nbsp;Have a look at my website for more details about me. I'm open to any feedback!
 
 <h3>GitHub Analytics</h3>
 
