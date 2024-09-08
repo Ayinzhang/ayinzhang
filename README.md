@@ -2,11 +2,11 @@
 
 <h3>About Me</h3>
 
-💡 &nbsp;I like to explore new technologies and develop some interesting game demos.\
+💡 &nbsp;I like to explore new technologies and develop something unique and interesting.\
 🎓 &nbsp;I'm currently taking Game and Media Technology master degree at Utrecht University.\
 🌱 &nbsp;I'm on track for learning more about game technology (AI, Engine, Graphics...)\
 💼 &nbsp;I did game-related internships at Baitian Baioo and TiMi Tencent.\
-💬 &nbsp;Feel free to contact me for cooperating, or just for some interesting discussion.\
+💬 &nbsp;Feel free to contact me for cooperating, or just for some interesting things.\
 ✉️ &nbsp;You can shoot me an email and I'll try to respond in one day.\
 🌐 &nbsp;Have a look at my website for more details about me. I'm open to any feedback!
 
