@@ -3,9 +3,9 @@
 <h3>About Me</h3>
 
 💡 &nbsp;I like to explore new technologies and develop something unique and interesting.\
-🎓 &nbsp;I'm currently taking Game and Media Technology master degree at Utrecht University.\
+🎓 &nbsp;I have a master degree in Game and Media Technology from Utrecht University.\
 🌱 &nbsp;I'm on track for learning more about game technology (AI, Engine, Graphics...)\
-💼 &nbsp;I did game-related internships at Baitian Baioo(Client), TiMi Tencent(Engine) and XD Inc(TA).\
+💼 &nbsp;I did game-related internships at Baitian Baioo(Client), Timi Tencent(Engine), XD Inc(TA) and Nuverse ByteDance(AIGC).\
 💬 &nbsp;Feel free to contact me for cooperating, or just for some interesting things.\
 ✉️ &nbsp;You can shoot me an email and I'll try to respond in one day.\
 🌐 &nbsp;Have a look at my website for more details about me. I'm open to any feedback!
