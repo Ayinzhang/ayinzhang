@@ -3,7 +3,7 @@
 <h3>About Me</h3>
 
 💡 &nbsp;I like to explore new technologies and develop something unique and interesting.\
-🎓 &nbsp;I have a Bachelor degree in Computer Science from Northeastern University and a Master degree in Game and Media Technology from Utrecht University.\
+🎓 &nbsp;I am a Computer Science Bachelor from Northeastern University and a Game and Media Technology Master from Utrecht University.\
 🌱 &nbsp;I'm on track for learning more about game technology (AI, Engine, Graphics...)\
 💼 &nbsp;I did game-related internships at Baitian Baioo(Client), Timi Tencent(Engine), XD Inc(TA) and Nuverse ByteDance(AIGC).\
 💬 &nbsp;Feel free to contact me for cooperating, or just for some interesting things.\
